@@ -1,0 +1,6 @@
+{
+  "name": "SecQA - Interactive Input Testing & Secure Coding Lab",
+  "description": "Interactive Security QA platform for developers and testers. Learn input validation flaws, edge cases, sanitization techniques, and secure coding for Python backend and frontend with live test case scenarios and real-time feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
